@@ -8,4 +8,5 @@ You can see that class starts at 9 am and the last class is at 15 pm (which is a
 
 ### Expected Output
 
-<img src="./outputTimetable.png">
+![output-student-timetable](https://github.com/soubhagyasethy/React-Questions-from-Beginner-to-Advanced/assets/82697602/d04abf95-e8eb-429b-874f-2cda8d342aff)
+
